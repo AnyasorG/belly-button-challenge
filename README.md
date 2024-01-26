@@ -1,4 +1,4 @@
-# Belly Button Biodiversity Dashboard
+# Topic: Belly Button Biodiversity Dashboard
 
 ![Belly Button Biodiversity Dashboard](./images/belly_button_biodiversity_dashboard.png )
 
@@ -69,6 +69,8 @@ const url = 'https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/
   ![Top 10 OTUs for 940 Bar Chart](./images/top_10_otus_940_barChart.png )
 - **Bubble Chart:** Visualizes each sample's OTU data.
   ![Top 10 OTUs for 940 Bubble Chart](./images/top_10_otus_940_bubbleChart.png )
+-**Test Subject ID and MetaData:**
+   ![Test Subject ID and MetaData](./images/test_subject_id_meta_data.png)
 - **Gauge Chart:** Displays the washing frequency of the selected individual.
  ![Belly Button Washing Frequency](./images/belly_button_washing_frequency.png)
 ## Advanced Challenge (Optional)
