@@ -1,6 +1,6 @@
 # Belly Button Biodiversity Dashboard
 
-![Belly Button Biodiversity Dashboard](./belly_button_biodiversity_dashboard.png )
+![Belly Button Biodiversity Dashboard](.images/belly_button_biodiversity_dashboard.png )
 
 ## Table of Contents
 - [Overview](#overview)
@@ -72,8 +72,8 @@ const url = 'https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/
 ## Advanced Challenge (Optional)
 - An adapted Gauge Chart from [Plotly](https://plotly.com/javascript/gauge-charts/) is used to plot the weekly washing frequency of the individual.
 
-## Deployment
-= The application is deployed on [GitHub Pages](https://yourusername.github.io/belly-button-challenge/).
+## App Deployment
+= The application is deployed on [GitHub Pages](https://anyasorg.github.io/belly-button-challenge/).
 
 ## Challenge Solution Location
 - The solutions to the specified questions are in app.js.
