@@ -1,4 +1,5 @@
 # Belly Button Biodiversity Dashboard
+![Belly Button Biodiversity Dashboard]([https://example.com/path/to/your/image.jpg](https://github.com/AnyasorG/belly-button-challenge/blob/main/belly_button_biodiversity_dashboard.png = 300x)
 
 ## Table of Contents
 - [Overview](#overview)
