@@ -43,27 +43,27 @@ The data is fetched from the [Belly Button Biodiversity Dataset](http://robdunnl
 
 ### Use the D3 library to read in samples.json from the URL
 
-### javascript
+```javascript
 // Sample code to read samples.json using D3
 const url = 'https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json';
 
-### Create a promise for the sample data
-### Code for creating the horizontal bar chart
-### Use sample_values as values for the bar chart.
-### Use otu_ids as labels for the bar chart.
-### Use otu_labels as hovertext for the chart.
-### Code for creating the bubble chart
-### Use otu_ids for x values.
-### Use sample_values for y values.
-### Use sample_values for marker size.
-### Use otu_ids for marker colors.
-### Use otu_labels for text values.
-### Code for displaying sample metadata
-### Display an individual's demographic information.
-### Display each key-value pair from the metadata JSON object on the page.
-### Code for updating all plots when a new sample is selected
+// Create a promise for the sample data
+// Code for creating the horizontal bar chart
+// Use sample_values as values for the bar chart.
+// Use otu_ids as labels for the bar chart.
+// Use otu_labels as hovertext for the chart.
+// Code for creating the bubble chart
+// Use otu_ids for x values.
+// Use sample_values for y values.
+// Use sample_values for marker size.
+// Use otu_ids for marker colors.
+// Use otu_labels for text values.
+// Code for displaying sample metadata
+// Display an individual's demographic information.
+// Display each key-value pair from the metadata JSON object on the page.
+// Code for updating all plots when a new sample is selected
 
-## Functionality
+# Functionality
 
 - **Bar Chart:** Displays the top 10 OTUs for the selected individual.
   ![Top 10 OTUs for 940 Bar Chart](./images/top_10_otus_940_barChart.png )
@@ -77,20 +77,26 @@ const url = 'https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/
 - **Gauge Chart:** Displays the washing frequency of the selected individual.
   ![Belly Button Washing Frequency](./images/belly_button_washing_frequency.png)
 
-## Advanced Challenge (Optional)
+# Advanced Challenge (Optional)
+
 - An adapted Gauge Chart from [Plotly](https://plotly.com/javascript/gauge-charts/) is used to plot the weekly washing frequency of the individual.
 
-## App Deployment
-= The application is deployed on [GitHub Pages](https://anyasorg.github.io/belly-button-challenge/).
+# App Deployment
 
-## Challenge Solution Location
+- The application is deployed on [GitHub Pages](https://anyasorg.github.io/belly-button-challenge/).
+
+# Challenge Solution Location
+
 - The solutions to the specified questions are in app.js.
 
-## Acknowledgments
+# Acknowledgments
+
 - Dataset: [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-## Author
+# Author
+
 - [Godswill Anyasor](https://github.com/AnyasorG)
 
-## License
+# License
+
 - This project is open-source and is made available under the terms of the MIT License. For the full details of the MIT License, please refer to [MIT License Details](https://choosealicense.com/licenses/mit/).
