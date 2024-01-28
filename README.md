@@ -1,7 +1,7 @@
 # Topic: Belly Button Biodiversity Dashboard
 
 ![Belly Button Biodiversity Dashboard](./images/belly_button_biodiversity_dashboard.png )
-
+## application is deployed on GitHub pages link https://anyasorg.github.io/belly-button-challenge/
 ## Table of Contents
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
